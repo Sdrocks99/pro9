@@ -1,0 +1,21 @@
+#sd{
+    border-color: green;
+    
+    font-size: larger;
+}
+#one{
+    color: red;
+    font-size: larger;
+}
+#two{
+    font: bold;
+    font-size: larger;
+    
+}
+span{
+    font-size: larger;
+}
+.blk{
+    background-color: rgb(121, 228, 144);
+}
+
